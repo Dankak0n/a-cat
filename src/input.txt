@@ -1,0 +1,6 @@
+1
+3 4
+ABCD
+efgh
+1 34
+src\\input.txt"
